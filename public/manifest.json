@@ -1,8 +1,8 @@
 {
   "name": "PATROL GADGETS",
   "short_name": "P~G",
-  "theme_color": "#FFFFFF",
-  "background_color": "#FFFFFF",
+  "theme_color": "#299ad6",
+  "background_color": "#299ad6",
   "start_url": "/",
   "display": "standalone",
   "icons": [
