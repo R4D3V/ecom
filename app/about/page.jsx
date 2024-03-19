@@ -11,7 +11,7 @@ export default function Home() {
             <Link href="/">HOME</Link>
           </button>
           <button className="px-5 rounded-md bg-black mx-3 hover:animate-pulse">
-            <Link href="/about">ABOUT</Link>
+            <Link href="/contact">CONTACT</Link>
           </button>
         </p>
       </div>
